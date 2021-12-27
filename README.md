@@ -30,17 +30,6 @@ A small description of the required conversion:
 * %x print a number in hexadecimal (base 16).
 * %% print a percent sign
 
-## Bonus Part
-
-If the Mandatory part is not perfect don’t even think about bonuses
-* You don’t need to do all the bonuses
-* Manage any combination of the following flags: ’-0.’ and minimum field width
-with all conversions
-* Manage all the following flags: ’# +’ (yes, one of them is a space)
-
-## Personal Extras
-* It works with wildcards "*"
-
 ## Makefile to create the library
 ```
 make
